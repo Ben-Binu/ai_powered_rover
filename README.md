@@ -30,5 +30,5 @@ An intelligent, computer-vision-based rover built on **Raspberry Pi 5** and **Ar
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Ben-Binu/pothole-rover.git](https://github.com/yourusername/pothole-rover.git)
+   git clone [https://github.com/Ben-Binu/pothole-rover.git]
    cd pothole-rover
