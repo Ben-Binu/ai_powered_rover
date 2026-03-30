@@ -1,0 +1,12 @@
+# --- AI ENGINE ---
+ultralytics==8.3.0      # This includes the YOLOv8n logic
+torch                   # The math engine behind YOLO
+torchvision             # Handles the image frames for the AI
+
+# --- VISION & NAVIGATION ---
+opencv-python           # Road Masking & HUD
+picamera2               # Pi 5 Camera Driver
+numpy                   # Pixel counting for steering
+
+# --- COMMUNICATION ---
+pyserial                # Sending 'L'/'R'/'F' to Arduino Uno
