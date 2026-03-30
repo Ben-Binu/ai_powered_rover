@@ -1,4 +1,4 @@
-##NOTE:NEVER use the main files (always use the test files for testing) unless, it meets the required working model then you can commit the changes to the main files from the test files##\
+##NEVER use the main files (always use the test files for testing) unless, it meets the required working model then you can commit the changes to the main files from the test files##
 
 # ai_powered_rover
 An AI-powered rover using Raspberry Pi 5 and YOLOv8n for real-time pothole detection. It features a dual-layer navigation system: HSV color masking for road-boundary protection and autonomous steering logic to dodge hazards. The Pi 5 processes high-speed vision data, sending precise move commands to an Arduino Uno for agile motor control.
